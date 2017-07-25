@@ -1,0 +1,214 @@
+
+nav {  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 30px;
+  font-family: verdana;
+    font-size: 14px;
+}
+
+h2 {font-size: 25px}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+body {font-family: verdana;
+  font-size: 15px;}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.top-left{float: left;
+  padding: 0;
+  margin: 0 20px 0 0;}
+
+.heart{margin: 0 20px;}
+
+
+.header1 {
+  margin-left: 10px;
+  width: 1200px;
+  height: 40px;
+}
+
+
+
+.left{float: left;}
+
+.header11 {
+  float: left;
+  width: 12%;
+    }
+
+.header12 {
+  float: left;
+  width: 75%;
+  }
+
+.header13 {
+  float: left;
+  width: 13%;
+  }
+
+.linkheader {
+  color: white;
+  text-decoration: none;
+}
+
+
+
+
+
+.header2{width: 1000px;
+  margin: 0 auto;
+  height:300px;
+}
+
+.separa{margin-top: 50px;}
+
+.link-header{Background: rgb(240, 146, 51)	;
+Color: white;
+Text-align: center;
+Text-decoration: none;
+display: block;
+Width: 200px;
+Padding: 14px 20px;
+Border: 2px black solid 0.2;
+}
+
+header {color: white;
+Background: rgb(32, 101, 136);
+padding-bottom: 20px;
+padding-top: 20px;
+background: url("images/city-scape.svg") 0 0 no-repeat;
+background-size: cover;
+}
+
+
+
+
+.search {
+  width: 100%;
+  position: relative;
+
+}
+
+.searchTerm {
+  float: left;
+  width: 95%;
+  padding: 0px;
+  height: 30px;
+ color: #9DBFAF;
+ background: rgb(31, 82, 111);
+}
+
+.searchTerm:focus{
+ color: #9DBFAF;
+}
+
+.searchButton {
+  float: left;
+  width: 34px;
+  height: 34px;
+  background: rgb(31, 82, 111);
+  text-align: center;
+}
+
+
+
+.trozooscuro {width: 1100px;
+margin: 0 auto;}
+
+
+.fondooscuro {color: White;
+background-color: rgb(39, 53, 71);
+padding-top: 120px;
+padding-bottom: 120px;}
+
+
+.right {float: right;}
+
+.link-oscuro {Background: rgb(203, 56, 55)	;
+Color: white;
+Text-align: center;
+Text-decoration: none;
+display: block;
+Width: 200px;
+Padding: 14px 20px 14px 20px;
+Border: 2px black solid 0.2;
+}
+
+.linkenblanco {
+  color: white;
+  text-decoration: none;
+}
+
+.clearfix {
+  clear: both;
+}
+
+.fondouno { padding: 0px 0;
+Width: 1200px;
+height: 400px;}
+
+.segunda{background: url("images/forklift.svg") 0 0 no-repeat;
+background-size: cover;
+Color: white;
+height: 500px;
+position: relative;
+
+}
+
+.link3 {Background: rgb(49, 68, 88);
+Color: white;
+Text-align: center;
+Text-decoration: none;
+display: block;
+Width: 200px;
+Padding: 14px 20px 14px 20px;
+Border: 2px black solid 0.2;}
+
+.absoluta {position: absolute;
+  padding-left: 120px;
+  padding-top: 120px;
+}
+
+.tercero{padding-top: 35px;
+padding-bottom: 35px;}
+
+.centrar{padding: 0 auto;
+}
+
+#p3º h2, h3 {color: rgb(83, 88, 98);
+text-align: center;}
+
+#p3º a {color: rgb(208, 74, 73);
+Text-decoration: none;}
+
+#p3º p {color: rgb(135, 145, 156);
+text-align: center;
+padding-left: 80px;
+padding-right: 80px;}
+
+.t30 {
+  width: 33%;
+  text-align: center;
+  padding: 0 auto;
+  }
+
+.container {
+  margin: 0 auto;
+  padding: 35px 105px 75px;
+  width: 1200px;
+}
